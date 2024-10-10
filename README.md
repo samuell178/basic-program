@@ -1,1 +1,1 @@
-# A baisc program to practice dotnet with C#
+# A basic program to practice dotnet with C#
